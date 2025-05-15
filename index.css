@@ -1,0 +1,120 @@
+*{
+	padding: 0%;
+	margin: 0%;
+	box-sizing: border-box;
+}
+html,body{
+	height: 100%;
+	width: 100%;
+	background-color: black;
+}
+#top{
+	/* height: 100px; */
+	display: flex;
+}
+#title img{
+	height: 100px;
+	padding-left: 10px;
+      
+}
+#icon{
+    padding-left: 1085px;
+	display: flex;
+    font-size: 50px;
+	color: white ;
+	padding-top: 20px;
+}
+#msg{
+	padding-left: 15px;
+}
+#story{
+	display:flex;
+	gap: 10px;
+	padding-top: 20px;
+	border-bottom: 2px solid gray;
+}
+
+#myh{
+	color: aliceblue;
+	font-size: 30px;
+	padding-left: 20px;
+	text-align: center;
+
+}
+#myh img{
+	height: 150px;
+    border-radius: 50%;
+	border: 5px solid green;  
+}
+
+#first{
+	color: aliceblue;
+	font-size: 30px;
+	padding-left: 20px;
+	text-align: center;
+}
+#first img{
+	height: 150px;
+    border-radius: 50%;  
+}
+#second{
+	color: aliceblue;
+	font-size: 30px;
+	padding-left: 20px;
+	text-align: center;
+}
+#second img{
+	height: 150px;
+    border-radius: 50%;  
+}
+#third{
+	color: aliceblue;
+	font-size: 30px;
+	padding-left: 20px;
+	text-align: center;
+}
+#third img{
+	height: 150px;
+    border-radius: 50%;  
+}
+#fourth{
+	color: aliceblue;
+	font-size: 30px;
+	padding-left: 20px;
+	text-align: center;
+}
+#fourth img{
+	height: 150px;
+    border-radius: 50%;  
+}
+#fifth{
+	color: aliceblue;
+	font-size: 30px;
+	padding-left: 20px;
+	text-align: center;
+}
+#fifth img{
+	height: 150px;
+    border-radius: 50%;  
+}
+#sixth{
+	color: aliceblue;
+	font-size: 30px;
+	padding-left: 20px;
+	text-align: center;
+}
+#sixth img{
+	height: 150px;
+    border-radius: 50%;  
+}
+#seventh{
+	color: aliceblue;
+	font-size: 30px;
+	padding-left: 20px;
+	text-align: center;
+}
+#seventh img{
+	height: 150px;
+    border-radius: 50%;  
+}
+
